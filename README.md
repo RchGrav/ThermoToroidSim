@@ -1,8 +1,9 @@
 # ThermoToroidSim
+![animation](anim.gif)
 
 ## Description
 ThermoToroidSim is a playful yet insightful physics simulation, a toy project that amalgamates gravitational dynamics, thermal behavior, and computational acceleration using Numba. While simplistic in its approach, it embodies core concepts of particle coalescence, thermal dynamics from gravitational compression, friction, and particle interaction in a 2D toroidal playfield.
-![animation](anim.gif)
+
 ## Key Concepts Explored
 - **Numba Acceleration:** Utilizes Numba, a JIT compiler, to significantly speed up the computation of forces and heat exchange between particles, demonstrating the benefits of optimized Python code for scientific computation.
 - **Particle Coalescence and Thermal Dynamics:** Initially places 500 particles randomly, simulating a very basic form of particle coalescence and thermal dynamics influenced by gravitational interactions and friction.
